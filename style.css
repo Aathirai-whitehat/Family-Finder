@@ -1,0 +1,58 @@
+body{
+    font-family: 'Lobster Two', cursive;
+    background-image: linear-gradient(to bottom, #00a6ff, #a698f6, #e88ad2, #ff8aa3, #ff9a7b, #ff9f74, #ffa46d, #ffaa66, #ff997c, #ff8c9e, #ff87c6, #ff8ef0);
+    
+}
+
+.heading{
+    width: 80%;
+    margin: 0px;
+    color: snow;
+    box-shadow: 10px 10px 10px whitesmoke;
+    font-size: 40px;
+    letter-spacing: 10px;
+    background-image: radial-gradient(circle, #2100ff, #e800b3, #ff0068, #ff542c, #ffa400, #ffab10, #ffb21c, #ffb926, #ff8537, #ff3a68, #ff00a9, #dd00f2);
+   
+}
+
+.model_div {
+    float:none;
+    background-color: azure;
+    color: mediumvioletred;
+    box-shadow:plum;
+    border-radius: 20px;
+}
+
+.object_div{
+    font-size: 15px;
+    white-space: pre-line;
+    letter-spacing: normal;
+}
+
+.para{
+    background-color: rgb(168, 130, 238);
+    border: #2e2aff;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px honeydew;
+    font-size: 20px;
+    margin-top: 100px;
+
+}
+
+#copyright{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: rgb(255, 105, 105);
+    color: rgb(76, 0, 255);
+    text-align: center;
+    line-height: 2;
+    font-size: 20px;
+}
+
+canvas{
+    border:10px soild yellowgreen;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgb(74, 170, 235);
+    margin-top: 100px;
+}
